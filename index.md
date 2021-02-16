@@ -12,7 +12,7 @@ h1,h2,h3,h4,h5,h6 {font-family:"Segoe UI",sans-serif}
 <script src=""></script>
 <body>
 
-<img src="CURRICULUM JUAN.jpg" alt="Resumen" style="width:100%">
+<img src="https://github.com/i7uanc4r10s/curriculum/blob/main/CURRICULUM%20JUAN.jpg" alt="Resumen" style="width:100%">
 
 </body>
 </html>
